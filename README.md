@@ -4,7 +4,7 @@ A custom React hook for creating draggable components.
 
 <!-- ![Draggable.gif](Draggable.gif) -->
 
-<p >
+<p width="20px" height="100%">
 <img src="https://raw.githubusercontent.com/4SAMU/Draggable/main/Draggable.gif" />
 </p>
 

@@ -1,6 +1,6 @@
 {
   "name": "draggable-react-hook",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A custom React hook for creating draggable components.",
   "main": "lib/index.js",
   "types": "index.d.ts",
