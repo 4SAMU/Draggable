@@ -1,0 +1,47 @@
+{
+  "name": "draggable-react-hook",
+  "version": "1.0.2",
+  "description": "A custom React hook for creating draggable components.",
+  "main": "lib/index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "start": "node .",
+    "build": "babel src --out-dir lib --extensions .ts,.tsx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4SAMU/Draggable.git"
+  },
+  "keywords": [
+    "Drag",
+    "move",
+    "Draggable",
+    "movable",
+    "react-draggable",
+    "react-movable"
+  ],
+  "author": "4SAMU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4SAMU/Draggable/issues"
+  },
+  "homepage": "https://github.com/4SAMU/Draggable#readme",
+  "dependencies": {
+    "@babel/cli": "^7.22.5",
+    "@babel/core": "^7.22.5",
+    "@babel/preset-env": "^7.22.5",
+    "@babel/preset-react": "^7.22.5",
+    "@babel/preset-typescript": "^7.22.5",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.9"
+  },
+  "babel": {
+    "presets": [
+      "@babel/preset-env",
+      "@babel/preset-react",
+      "@babel/preset-typescript"
+    ]
+  }
+}
